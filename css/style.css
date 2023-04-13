@@ -1,30 +1,29 @@
 /* Created by: Lily C
 * Created on: 04/13/2023
-* This CSS file defines the style for index.html
-* Unit4-01-HTML-GuessMyNumber
+* This CSS file defines the style for index.php
+* Unit4-01-PHP-GuessMyNumber
 */
 
 body {
-  background-color: mistyrose;
+  background-color: firebrick;
 }
 
 h1 {
-  background-color: rgb(147 225 216);
-  color: hsl(325deg 72% 31%);
+  background-color: rgb(37 95 133);
+  color: hsl(40deg 100% 67%);
   padding: 40px;
   text-align: center;
 }
 
 h3 {
-  color: #93E1D8;
+  color: #255f85;
 }
 
 p {
-  background-color: #aa4465;
-  color: #000;
+  background-color: #255f85;
+  color: #fff;
 }
 
 div {
-  background-color: #aa4465;
+  background-color: #000;
 }
-
