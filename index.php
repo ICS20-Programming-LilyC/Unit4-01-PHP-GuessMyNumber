@@ -33,7 +33,8 @@
    <?php echo "<h1>Guess My Number in PHP!</h1>"; ?>
 
    <!--Text-->
-     <?php echo "<p>This webpage will allow you to guess a random number. Your goal is to try and guess correctly! To input your guess enter your input text box below.</p>"; ?>
+     <?php echo "<p>This webpage will allow you to guess a random number. 
+     Your goal is to try and guess correctly! To input your guess enter your input text box below.</p>"; ?>
 
     <!--Image-->
    <center>
